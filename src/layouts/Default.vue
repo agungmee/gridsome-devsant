@@ -19,7 +19,7 @@
     <footer class="footer">
       <div class="content has-text-centered">
         <p>
-          Created by <a href="chadcollins.net"><strong>Chad Collins</strong></a
+          Created by <a href="devsant.netlify.app"><strong>DevSant</strong></a
           >. Powered by <a href="https://gridsome.org/"><strong>Gridsome</strong></a
           >.
         </p>

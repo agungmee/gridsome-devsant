@@ -1,5 +1,5 @@
 ---
-title: #1. Intro Belajar Vue.js
+title: #1. Belajar VueJs - Intro
 author: agung-santoso
 tags:
   - VueJs
@@ -9,7 +9,7 @@ excerpt: Apa itu VueJs? Sejarah dan lainnya ayo kita bahas.
 date: 2020-07-30T21:58:14.606Z
 featuredImage: uploads/vue.jpeg
 ---
-# #1. Intro Belajar VueJs
+# #1. Belajar VueJs - Intro
 
 <!-- ## Quo putat => Ini untuk menulis Bold judul -->
 

@@ -1,40 +1,40 @@
-const c1 = () => import(/* webpackChunkName: "page--src--templates--post-vue" */ "/home/agungsan/blog2/src/templates/Post.vue")
-const c2 = () => import(/* webpackChunkName: "page--src--templates--tag-vue" */ "/home/agungsan/blog2/src/templates/Tag.vue")
-const c3 = () => import(/* webpackChunkName: "page--src--templates--author-vue" */ "/home/agungsan/blog2/src/templates/Author.vue")
-const c4 = () => import(/* webpackChunkName: "page--src--pages--by-project-vue" */ "/home/agungsan/blog2/src/pages/ByProject.vue")
-const c5 = () => import(/* webpackChunkName: "page--src--pages--category-vue" */ "/home/agungsan/blog2/src/pages/Category.vue")
-const c6 = () => import(/* webpackChunkName: "page--src--pages--about-vue" */ "/home/agungsan/blog2/src/pages/About.vue")
-const c7 = () => import(/* webpackChunkName: "page--node-modules--gridsome--app--pages--404-vue" */ "/home/agungsan/blog2/node_modules/gridsome/app/pages/404.vue")
+const c1 = () => import(/* webpackChunkName: "page--src--templates--tag-vue" */ "/home/agungsan/blog2/src/templates/Tag.vue")
+const c2 = () => import(/* webpackChunkName: "page--src--templates--author-vue" */ "/home/agungsan/blog2/src/templates/Author.vue")
+const c3 = () => import(/* webpackChunkName: "page--src--pages--by-project-vue" */ "/home/agungsan/blog2/src/pages/ByProject.vue")
+const c4 = () => import(/* webpackChunkName: "page--src--pages--category-vue" */ "/home/agungsan/blog2/src/pages/Category.vue")
+const c5 = () => import(/* webpackChunkName: "page--src--pages--about-vue" */ "/home/agungsan/blog2/src/pages/About.vue")
+const c6 = () => import(/* webpackChunkName: "page--node-modules--gridsome--app--pages--404-vue" */ "/home/agungsan/blog2/node_modules/gridsome/app/pages/404.vue")
+const c7 = () => import(/* webpackChunkName: "page--src--templates--post-vue" */ "/home/agungsan/blog2/src/templates/Post.vue")
 const c8 = () => import(/* webpackChunkName: "page--src--pages--index-vue" */ "/home/agungsan/blog2/src/pages/Index.vue")
 
 export default [
   {
-    path: "/blog/:year/:month/:day/:title/",
+    path: "/tag/:title/",
     component: c1
   },
   {
-    path: "/tag/:title/",
+    path: "/author/:title/",
     component: c2
   },
   {
-    path: "/author/:title/",
+    path: "/by-project/",
     component: c3
   },
   {
-    path: "/by-project/",
+    path: "/category/",
     component: c4
   },
   {
-    path: "/category/",
-    component: c5
-  },
-  {
     path: "/about/",
-    component: c6
+    component: c5
   },
   {
     name: "404",
     path: "/404/",
+    component: c6
+  },
+  {
+    path: "/:title/",
     component: c7
   },
   {
@@ -45,6 +45,6 @@ export default [
   {
     name: "*",
     path: "*",
-    component: c7
+    component: c6
   }
 ]

@@ -4,7 +4,7 @@ title: 'Agung'
 link: 'github.com/agungmee'
 image: 'uploads/author-images/author-avatar.png'
 email: 'agunglab@gmail.com'
-blurb: 'a little somethin somethin'
+blurb: 'Bukan Expert, Berharap Jadi Expert Dari Berbagi'
 ---
 
 # Bio

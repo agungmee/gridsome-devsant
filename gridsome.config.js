@@ -50,7 +50,7 @@ module.exports = {
   templates: {
     Post: [
       {
-        path: '/blog/:year/:month/:day/:title',
+        path: '/:title',  
         componenent: '~/templates/Post.vue',
       },
     ],
