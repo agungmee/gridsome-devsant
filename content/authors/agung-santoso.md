@@ -2,7 +2,7 @@
 id: agung-santoso
 title: 'Agung Santoso'
 link: 'github.com/agungmee'
-image: 'uploads/author-images/author-avatar.png'
+image: 'uploads/author-images/agung-avatar.png'
 email: 'agunglab@gmail.com'
 blurb: 'Bukan Expert, Berharap Jadi Expert Dari Berbagi'
 ---

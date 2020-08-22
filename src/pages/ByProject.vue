@@ -1,13 +1,11 @@
 <template>
-  <Layout pageTitle="About">
+  <Layout pageTitle="By Project">
     <section class="section">
       <div class="container">
         <div class="content">
           <h2>By Project</h2>
           <p>
-            Lorem ipsum dolor sit amet, consectetur adipisicing elit. Error doloremque omnis animi,
-            eligendi magni a voluptatum, vitae, consequuntur rerum illum odit fugit assumenda rem
-            dolores inventore iste reprehenderit maxime! Iusto.
+            Sementara belum ada isinya, nanti akan dibuat seperti <i>Study Case</i> gitu. Jadi kita akan bareng-bareng membuat aplikasi dari awal sampai jadi.
           </p>
         </div>
       </div>

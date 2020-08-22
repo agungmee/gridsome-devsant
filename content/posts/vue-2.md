@@ -14,3 +14,18 @@ featuredImage: uploads/vue.jpeg
 
 ## Menulis Program Vue Pertama Kita
 
+Oke, setelah tools sudah siap mari kita mulai menulis program pertama kita. Kita mulai dengan membuat struktur project kita dulu ya di kode editor masing-masing seperti ini :
+
+```
+index.html
+app.js
+style.css
+
+```
+
+Isi dari Index.html seperti ini :
+
+```
+
+
+```
