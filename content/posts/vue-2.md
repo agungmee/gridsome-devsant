@@ -26,6 +26,23 @@ style.css
 Isi dari Index.html seperti ini :
 
 ```
-
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Belajar VueJs</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div id="app">
+        <h2>Nama Saya adalah {{ name }} </h2>
+    </div>
+</body>
+    <script src="https://cdn.jsdelivr.net/npm/vue/dist/vue.js"></script>
+    <script src="app.js"></script>
+</html>
 
 ```
+
+Penjelasan kode :

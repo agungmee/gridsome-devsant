@@ -2,6 +2,9 @@
   <Layout pageTitle="DevSant" pageSubtitle="Belajar Rumus, Kode dan Pemrograman">
     <div class="section">
       <div class="container">
+        <div class="content">
+          <center><h2>Posting Terbaru</h2></center>
+        </div>
         <div class="columns">
           <div class="column"></div>
           <div class="column cards-grid is-four-fifths">
