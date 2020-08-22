@@ -27,7 +27,7 @@
                     </g-link>
                   </div>
                   <div class="media-content">
-                    <h2 class="title is-4">
+                    <h2 class="title is-6">
                       <g-link :to="edge.node.path">
                         {{ edge.node.title }}
                       </g-link>

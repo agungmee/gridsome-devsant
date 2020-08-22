@@ -1,6 +1,6 @@
 ---
 id: agung-santoso
-title: 'Agung'
+title: 'Agung Santoso'
 link: 'github.com/agungmee'
 image: 'uploads/author-images/author-avatar.png'
 email: 'agunglab@gmail.com'

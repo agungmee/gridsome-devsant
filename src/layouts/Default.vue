@@ -19,8 +19,8 @@
     <footer class="footer">
       <div class="content has-text-centered">
         <p>
-          Created by <a href="devsant.netlify.app"><strong>DevSant</strong></a
-          >. Powered by <a href="https://gridsome.org/"><strong>Gridsome</strong></a
+          <strong>DevSant 2020</strong>
+          Powered by <a href="https://gridsome.org/"><strong>Gridsome</strong></a
           >.
         </p>
       </div>
