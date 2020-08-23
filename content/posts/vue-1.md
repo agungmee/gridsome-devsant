@@ -1,5 +1,5 @@
 ---
-title: Belajar VueJs - 1. Intro
+title: Belajar VueJs - 1.Intro
 author: agung-santoso
 tags:
   - VueJs
@@ -79,4 +79,4 @@ Untuk mulai belajar VueJs dari dasaaaar sekali, kita butuh beberapa tools penduk
 Oke, informasi awal sudah selesai dan tools juga sudah diberikan waktunya untuk mulai belajaaaaaarrrrrr.
 
 
-Lanjut Baca [Belajar VueJs - Mulai](/belajar-vue-js-mulai)
+Lanjut Baca [Belajar VueJs - Mulai](/belajar-vue-js-2-mulai)

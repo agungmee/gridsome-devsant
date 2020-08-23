@@ -1,5 +1,5 @@
 ---
-title: Belajar VueJs - 2. Mulai
+title: Belajar VueJs - 2.Mulai
 author: agung-santoso
 tags:
   - VueJs
@@ -74,3 +74,7 @@ Oke, sebelum lihat hasilnya teman-teman baiknya install extenstion di VS Code ya
 Hasilnya seperti ini ya :
 
 ![VueJs](./images/vue-hasil-1.png)
+
+Lanjut Baca [Belajar VueJs - Data & Method](/belajar-vue-js-3-data-and-method)
+
+Baca Sebelumnya [Belajar VueJs - Intro](/belajar-vue-js-1-intro)
