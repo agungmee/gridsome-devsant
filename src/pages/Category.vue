@@ -3,15 +3,43 @@
     <section class="section">
       <div class="container">
         <div class="content">
-          <h2>Category</h2>
+          <center><h2>Category</h2></center>
             <div class="section">
               <div class="container">
                 <div class="columns">
                   <div class="column"></div>
                   <div class="column cards-grid is-four-fifths">
+
                       <a href="tag/vue-js">
-                        <g-image src="~/assets/images/vue.jpeg" width="300" height="200" border-radius="5px" />
+                        <g-image src="~/assets/images/vue.jpeg" width="300" height="200" border-radius="5px" />                  
+                      <div class="content">
+                      <center><h2>VueJs</h2></center>
+                      </div>
                       </a>
+                      
+                      <!-- Pengelompokan Kategori -->
+
+<!--                       <a href="tag/vue-js">
+                        <g-image src="~/assets/images/vue.jpeg" width="300" height="200" border-radius="5px" />                  
+                      <div class="content">
+                      <center><h2>VueJs</h2></center>
+                      </div>
+                      </a>
+
+                      <a href="tag/vue-js">
+                        <g-image src="~/assets/images/vue.jpeg" width="300" height="200" border-radius="5px" />                  
+                      <div class="content">
+                      <center><h2>VueJs</h2></center>
+                      </div>
+                      </a>
+
+                      <a href="tag/vue-js">
+                        <g-image src="~/assets/images/vue.jpeg" width="300" height="200" border-radius="5px" />                  
+                      <div class="content">
+                      <center><h2>VueJs</h2></center>
+                      </div>
+                      </a>
+ -->
                     <div class="grid-item"></div>
                     <div class="grid-item"></div>
                   </div>

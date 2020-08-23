@@ -1,5 +1,5 @@
 ---
-title: Belajar VueJs - Intro
+title: Belajar VueJs - 1. Intro
 author: agung-santoso
 tags:
   - VueJs
