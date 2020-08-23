@@ -66,7 +66,7 @@ Mari kita bahas kode yang ada didalam *app.js* :</br>
 ```data: { name: 'Agung'}``` adalah contoh penggunaan properti data untuk digunakan di dalam root #app tadi. Kalau dibaca maka seperti ini, didalam properti data ada object dengan key *name* dan value *'Agung'* dan kalau mau dipanggil ke html maka tuliskan *key*-nya di dalam root elemen (id=app) dan dimasukkan kedalam kurung kurawal. Maka nanti data yang dipangil akan ditampilkan kedalam HTML.
 
 Kode dalam *index.html* </br>
-```<div id="app">``` adalah root elemen yang akan dimanipulasi oleh vue instance di app.js.
+```<div id="app">``` adalah root elemen (scope) yang akan dimanipulasi oleh vue instance di app.js.
 ```<h2>Nama Saya adalah {{ name }} </h2>``` adalah contoh pemanggilan data dengan menuliskan dua kurung kurawal dan diisi dengan key data yang mau ditampilkan. Contoh ```{{ name }}``` akan menghasilkan Agung karena value pada data di app.js berisikan Agung.
 
 Oke, sebelum lihat hasilnya teman-teman baiknya install extenstion di VS Code yang namanya Live Server, ini gunanya agar kita tidak perlu susah-susah reload setiap ada perubahan dari text editor kita. Jadi waktu kita save browser akan otomatis reload. Untuk cara installnya tolong cari di google ya, gampang banget kok. Setelah install, klik kanan pada file index.html lalu pilih Open with Live Server maka jendela browser akan kebuka otomatis dan sudah me load aplikasi kita. 
