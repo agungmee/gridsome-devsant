@@ -112,7 +112,6 @@ export default {
 .card {
   margin-bottom: 1.5rem;
 }
-
 .cards-grid {
   display: flex;
   flex-wrap: wrap;
@@ -121,7 +120,6 @@ export default {
   width: 100%;
   justify-content: center;
 }
-
 /* Mobile First */
 .grid-item {
   width: 100%;
