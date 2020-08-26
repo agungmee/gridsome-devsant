@@ -124,6 +124,11 @@ new Vue ({
 });
 
 ```
+
+Hasilnya :
+
+![VueJs](./images/vue-5.2.gif)
+
 Kode diatas dapat memunculkan dan menghide form saat tombol di klik, hal itu dapat terjadi karena kita menggunakan v-on:click untuk mengatur aksi dari tombol dan menggunakan directive v-show untuk menampilkan form. 
 
 <br>
